@@ -63,12 +63,10 @@ By presenting this visual report, stakeholders can gain valuable insights into t
 ---
 
 ### Included Files:
-1. BikeStores.pbix: Power BI interactive dashboard.
-2. BikeStores.sql: SQL script used to generate the targeted data for creating the dashboard.
-3. BikeStores_Dashboard.xlsx: Excel interactive dashboard.
-4. Excel_Dashboard: Screenshot of the Excel Dashboard.
-5. PowerBi_Dashboard.png: Screenshot of the Power BI Dashboard.
-6. raw_data: Folder containing the 5 raw tables in CSV format used in the database to generate the targeted data.
+1. Hotel_Executive_summary.pbix: Power BI interactive dashboard.
+2. tergated_dataSet.sql: SQL script used to generate the targeted data for creating the dashboard.
+3. Report_Screenshort.png: Screenshot of the Power BI Dashboard.
+4. raw_data: Folder containing the 5 raw tables in CSV format used in the database to generate the targeted data.
 
 ### [Click here for the Interactive DashBoard](https://app.powerbi.com/view?r=eyJrIjoiMGMyZmEwMzEtZWFmNi00ZWE2LTlkYzEtY2IxY2E1MWQ5YjhjIiwidCI6ImU1YzgyM2EyLTgzMDktNDNhZi1hZTIxLWI1NzE2ZTliZmQ5OSIsImMiOjEwfQ%3D%3D)
 
