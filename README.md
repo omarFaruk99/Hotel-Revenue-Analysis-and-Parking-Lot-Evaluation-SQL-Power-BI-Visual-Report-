@@ -24,7 +24,7 @@ The report utilizes various data visualization techniques to uncover patterns, t
 ---
 
 ### Skills Needed:
-- postgreSQL
+- PostgreSQL
 - Power BI
 - Data modeling
 - Dax Formula
