@@ -54,7 +54,7 @@ Retrieve the required tables or write custom SQL queries to fetch the prepared d
 - Utilize DAX (Data Analysis Expressions) formulas, calculated columns, and measures to perform calculations and create dynamic visualizations.
 
 #### Step 5: Publish and Share:
-- Once you have completed building your report, publish it to the Power BI service to make it available to stakeholders.
+- Once completed building report, publish it to the Power BI service to make it available to stakeholders.
 - Share the report with stakeholders by providing them with the necessary access or embedding the report in a website or portal.
 - Regularly update the report as new data becomes available to ensure stakeholders have access to the latest information.
 
